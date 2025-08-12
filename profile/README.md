@@ -3,6 +3,8 @@
 ## What is Quotebook?
 Quotebook is a quote generator that allows users to input a mood to receive and save suggested quotes tailored to their emotions.<br>
 
+Functioning login/sign-up and user profile features add a personalized touch to Quotebook!
+
 This application utilizes AI and a quote API to suggest quotes to users.<br>
 
 Quotebook is designed by a team of student developers committed to enhancing their technical experience through projects.<br>
@@ -13,6 +15,7 @@ Quotebook is designed by a team of student developers committed to enhancing the
 
 ## Features ✨
 - User-Friendly interface.
+- Searchbar to input moods.
 - User Login/Sign-up.
 - Save/Unsave Quotes.
 - Editable User Profile.
