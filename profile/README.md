@@ -1,6 +1,8 @@
-## Quotebook 📒
+# Quotebook 📒
 
-### We are a team of student developers committed to elevating our technical experience thorugh the creation of projects. 
+### What is Quotebook?
+Quotebook is designed by a team of student developers committed to enhancing their technical experience through projects.<br>
+
 
 <!--
 
