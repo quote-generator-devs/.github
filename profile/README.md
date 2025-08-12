@@ -1,6 +1,6 @@
 # Quotebook 📒
 
-### What is Quotebook?
+## What is Quotebook?
 Quotebook is designed by a team of student developers committed to enhancing their technical experience through projects.<br>
 
 
