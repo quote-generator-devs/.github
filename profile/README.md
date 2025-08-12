@@ -18,22 +18,36 @@ Quotebook is designed by a team of student developers committed to enhancing the
 - Editable User Profile.
 - Suggested Quotes by Theme.
 
-## Website Pages
+## Website Pages 💻 
 
-### Home 
-![Website Preview](images/Home.png)
-
-  
+### Home :
+![Home Page](https://raw.githubusercontent.com/quote-generator-devs/quote-generator/main/public/images/Home.png)
 
 
+### Quote Results :
+![Quote Results](https://raw.githubusercontent.com/quote-generator-devs/quote-generator/main/public/images/Quotes.png)
 
-<!--
 
-**Here are some ideas to get you started:**
+### Saved Quotes :
+![Saved Quotes](https://raw.githubusercontent.com/quote-generator-devs/quote-generator/main/public/images/SavedQuotes.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### Themed Quotes :
+![Themed Quotes](https://raw.githubusercontent.com/quote-generator-devs/quote-generator/main/public/images/Theme.png)
+> [!NOTE]
+> This is one of the four themes available.
+
+
+### Profile :
+![Profile](https://raw.githubusercontent.com/quote-generator-devs/quote-generator/main/public/images/Profile.png)
+
+
+## Contributors 👥
+[@noordiab05](https://github.com/noordiab05) <br>
+[@shane-thoma](https://github.com/shane-thoma)<br>
+[@bhavana-pixel](https://github.com/bhavana-pixel)<br>
+[@dannylawler](https://github.com/dannylawler) <br>
+
+Quotebook™
+
+
