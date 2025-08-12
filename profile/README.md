@@ -1,4 +1,6 @@
-## Quotebook
+## Quotebook 📒
+
+### We are a team of student developers committed to elevating our technical experience thorugh the creation of projects. 
 
 <!--
 
