@@ -5,9 +5,9 @@ Quotebook is a quote generator that allows users to input a mood to receive and 
 
 Functioning login/sign-up and user profile features add a personalized touch to Quotebook!
 
-This application utilizes AI and a quote API to suggest quotes to users.<br>
+This application utilizes the Gemini API and a quote API to suggest quotes to users.<br>
 
-Quotebook is designed by a team of student developers committed to enhancing their technical experience through projects.<br>
+Check out the main repository [here](https://github.com/quote-generator-devs/quote-generator) ! <br>
 
 > [!NOTE]
 > Social Media features will be added soon!  
@@ -50,6 +50,8 @@ Quotebook is designed by a team of student developers committed to enhancing the
 [@shane-thoma](https://github.com/shane-thoma)<br>
 [@bhavana-pixel](https://github.com/bhavana-pixel)<br>
 [@dannylawler](https://github.com/dannylawler) <br>
+
+Quotebook is designed by a team of student developers committed to enhancing their technical experience through projects.<br>
 
 Quotebook™
 
